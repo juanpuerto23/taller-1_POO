@@ -22,10 +22,15 @@
 ### Leer una matriz M, (arreglo bidimensional) de m filas y n columnas. Los elementos son números enteros aleatorios positivos. Crear e imprimir dos vectores así: el vector A que contenga todos los números pares de la matriz M, y el vector B que contenga los números impares.}
 
 # Diagramas
-
+## Diagrama Ejercicio 1
 ![Diagrama1](ejercicio1.png)
+## Diagrama Ejercicio 2
 ![Diagrama2](ejercicio2.png)
+## Diagrama Ejercicio 3
 ![Diagrama3](ejercicio3.png)
+## Diagrama Ejercicio 4
 ![Diagrama4](ejercicio4.png)
+## Diagrama Ejercicio 5
 ![Diagrama5](ejercicio5.png)
+## Diagrama Ejercicio 6
 ![Diagrama6](ejercicio6.png)
